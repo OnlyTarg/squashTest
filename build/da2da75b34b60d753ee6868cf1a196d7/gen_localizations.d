@@ -1,0 +1,1 @@
+ /Users/pavelavdonin/Projects/squash_test/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/pavelavdonin/Projects/squash_test/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/pavelavdonin/Projects/squash_test/l10n.yaml /Users/pavelavdonin/Projects/squash_test/lib/src/localization/app_en.arb
