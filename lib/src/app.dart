@@ -19,7 +19,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Glue the SettingsController to the MaterialApp.
-    //
+    // try
+    //do
+    ///something
+    ///good
     // The AnimatedBuilder Widget listens to the SettingsController for changes.
     // Whenever the user updates their settings, the MaterialApp is rebuilt.
     return AnimatedBuilder(
